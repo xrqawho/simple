@@ -1,0 +1,2 @@
+# simple
+springcloud config demo
